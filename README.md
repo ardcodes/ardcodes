@@ -6,15 +6,11 @@ Junior  Developer • Computer Programmer
 
 ---
 
-## 👩‍💻 About Me
+## 👨🏼‍💻 About Me
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- 🎓 Computer programming student
+- 🫧 Writing clean, organized, and readable code
+- 🤖 Interested in AI-powered products and productivity tools
 
 ---
 
