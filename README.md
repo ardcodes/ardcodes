@@ -23,7 +23,7 @@ Junior  Developer • Computer Programmer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ardcodes&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardcodes&theme=tokyonight"/>
 
 </p>
 
